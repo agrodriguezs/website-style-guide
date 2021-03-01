@@ -1,0 +1,87 @@
+html {
+    color: #333;
+    background-color: aliceblue;
+    font-size: 16px;
+}
+body{
+    padding: 5px 60px;
+    background-color: gray;
+}
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Munito Sans", Verdana, Tahoma, sans-serif;
+    color: honeydew;
+}
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Poppins", Courier, monospace;
+}
+h3 {
+    font-weight: 700;
+    font-size: 14px;
+    font-family: "Munito Sans", Verdana, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Poppins", Courier, monospace;
+}
+section {
+    border: 1px solid grey;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: honeydew;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2)
+}
+.box-color {
+    border: 1px solid gray;
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+}
+.cool-blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+.black {
+    color: #333;
+}
+.pink {
+    background-color: #d957d9;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.font-source-code-pro {
+    font-family: "Source Code Pro", Courier, monospace;
+}
+.font-nunito-sans {
+    font-family: "Munito Sans", Verdana, Tahoma, sans-serif;
+}
+.font-poppins {
+    font-family: "Poppins", Courier, monospace;
+}
+.type-font {
+    display: inline-block;
+    padding: 5px 5px;
+    top: 0px;
+}
+.type-font h1,
+.type-font h2,
+.type-font h3,
+.type-font p
+{
+    padding-left: 40px;
+}
