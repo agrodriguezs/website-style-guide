@@ -57,3 +57,5 @@ A good style guide will not only show the design of your modals (or pop-ups), bu
 Believe it or not, your brand can be expressed in details even as minute as the milliseconds of a hover effect. A text link with the value { animation: 500ms ease-in; } conveys a different personality and sense of urgency compared to { animation: 100ms linear; }.
 
 A mismatch in animation timing between different links on your website may muddle the user experience, so take the time to plan what message your animations and interactions relay and stick to those rules.
+author:Jason Beever
+https://howtogetonline.com/creating-a-website-style-guide.php
